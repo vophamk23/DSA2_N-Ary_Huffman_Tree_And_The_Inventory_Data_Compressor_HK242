@@ -4,7 +4,7 @@
 
 > 📘 Môn học: Cấu trúc Dữ liệu & Giải thuật
 > 🏛️ Trường Đại học Bách Khoa – ĐHQG TP.HCM
-> 🧑‍💻 Học kỳ 2 – Năm học 2023–2024
+> 🧑‍💻 Học kỳ 2 – Năm học 2024–2025
 
 ---
 
