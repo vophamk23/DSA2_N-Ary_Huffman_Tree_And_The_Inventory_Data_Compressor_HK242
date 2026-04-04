@@ -2,11 +2,6 @@
 
 ### *Cây Huffman Đa Nhánh & Bộ Nén Dữ Liệu Kho Hàng*
 
-# File Tree: 9b.DSA2_N-Ary_Huffman_Tree_And_The_Inventory_Data_Compressor_HK242-main
-
-
-Root path: `https://github.com/vophamk23/9b.DSA2_N-Ary_Huffman_Tree_And_The_Inventory_Data_Compressor_HK242`
-
 ```
 ├── 📁 .vscode/ 🚫 (auto-hidden)
 ├── 📁 include/
